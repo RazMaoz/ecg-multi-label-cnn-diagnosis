@@ -99,7 +99,7 @@ ecg-multi-label-cnn-diagnosis/
 ├── notebooks/
 │   └── ecg_multi_label_cnn_pipeline.ipynb # End-to-end multi-label training & stress testing
 └── presentation/
-    └── Naya_Final_Project_ECG_Diagnosis_with_CNN.pptx # Comprehensive presentation deck
+    └── Multi_Label_ECG_Diagnosis_1D_CNN_Architecture.pptx # Comprehensive presentation deck
 ```
 
 ---
